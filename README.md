@@ -24,6 +24,7 @@ Main research: small target detection, super-resolution reconstruction, pattern 
 - [5] Xue C, Xia Y, Wu M, et al. EL-YOLO: An efficient and lightweight low-altitude aerial objects detector for onboard applications[J]. *Expert Systems with Applications*, 2024: 124848. (JCR Q1, IF 7.5)
 - [6] Yang C, Cai Z, Wu M, et al. Research on Detection Algorithm of Green Walnut in Complex Environment[J]. *Agriculture*, 2024, 14(9): 1441. (JCR Q1, IF 3.3)
 - [7] Wang H, Yun L, Yang C, Wu M, et al. OW-YOLO: An Improved YOLOv8s Lightweight Detection Method for Obstructed Walnuts[J]. Agriculture, 2025, 15(2): 159. (JCR Q1, IF 3.3)
+- [8] Wu M, Yang C, Wang H, et al. WalnutData: A UAV Remote Sensing Dataset of Green Walnuts and Model Evaluation[J]. arXiv preprint arXiv:2502.20092, 2025.
 
 ### Scientific and technological achievements
 ***Software works:***
